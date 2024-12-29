@@ -1,0 +1,6 @@
+o	Python: The system's backbone, chosen for its simplicity and extensive library ecosystem.
+o	OpenCV: Handles all computer vision tasks, including face detection and recognition.
+o	Tkinter: Builds the GUI for user interaction.
+o	Pandas: Manages and manipulates attendance records in CSV format.
+o	NumPy: Supports numerical computations for image data.
+o	Pillow (PIL): Processes and converts images during training.

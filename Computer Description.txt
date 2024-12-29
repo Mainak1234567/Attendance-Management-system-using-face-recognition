@@ -1,0 +1,12 @@
+Hardware Requirements:
+1.	Processor: Intel i5 or higher for efficient processing.
+2.	RAM: Minimum 8 GB to handle real-time recognition.
+3.	Storage: 500 GB or more for storing the database and logs.
+4.	Camera: High-resolution camera (720p or higher) for accurate face detection.
+5.	Graphics Processing Unit (GPU): Optional for faster model inference (e.g., NVIDIA GTX 1050 or higher).
+Software Requirements:
+1.	Operating System: Windows, Linux, or macOS.
+2.	Programming Language: Python (for face detection and recognition modules).
+3.	Libraries and Frameworks: OpenCV, Dlib, TensorFlow/PyTorch for model implementation.
+4.	Database: SQLite, MySQL, or cloud-based solutions for data storage.
+5.	Development Tools: Jupyter Notebook, PyCharm, or Visual Studio Code for coding and testing.
